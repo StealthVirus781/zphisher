@@ -122,7 +122,7 @@ $ zphisher
 - Temporary Container
 
   ```
-  docker run --rm -ti htrtech/zphisher
+  docker run --rm -ti StealthVirus781/zphisher
   ```
   - Remember to mount the `auth` directory.
 
